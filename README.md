@@ -1,5 +1,9 @@
-![App Screenshot](assets/finance_tracker_screenshot.png)  
-## 💲 FineWise: Personal Finance Tracker App
+ ## 💲 FineWise: Personal Finance Tracker App
+
+ <p align="center">
+  <img src="FinWise-master/app/src/main/res/drawable/logo.png" width="350">
+</p>
+
 
 Personal Finance Tracker is a smart and intuitive Kotlin-based mobile app that puts you in control of your money. Effortlessly track your income, expenses, and savings, visualize your spending habits, and set monthly budgets to stay on top of your financial goals. With real-time notifications, easy-to-use transaction management, and reliable data storage, managing your finances has never been this simple or this satisfying.
 
